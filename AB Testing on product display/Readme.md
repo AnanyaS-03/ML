@@ -52,4 +52,4 @@ The action gets logged in data.csv.
 ##OUTPUT
 ![Output](https://github.com/AnanyaS-03/ML/blob/main/AB%20Testing%20on%20product%20display/Screenshot%202025-05-07%20225248.png?raw=true)
 
-![Output](https://github.com/AnanyaS-03/ML/blob/main/AB%20Testing%20on%20product%20display/Screenshot%202025-05-07%20225248.png?raw=true)
+![Output](https://github.com/AnanyaS-03/ML/blob/main/AB%20Testing%20on%20product%20display/Screenshot%202025-05-07%20233131.png?raw=true)
