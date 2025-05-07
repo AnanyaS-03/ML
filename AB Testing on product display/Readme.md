@@ -49,4 +49,5 @@ You can simulate an action: either just viewing or clicking "Add to Cart".
 
 The action gets logged in data.csv.
 
-![Output]("[C:\Users\DELL\OneDrive\Documents\OneDrive\Pictures\Screenshots\Screenshot 2025-05-07 225248.png](https://github.com/AnanyaS-03/ML/blob/main/AB%20Testing%20on%20product%20display/Screenshot%202025-05-06%20151811.png")
+![Output](https://github.com/AnanyaS-03/ML/blob/main/AB%20Testing%20on%20product%20display/Screenshot%202025-05-06%20151811.png?raw=true)
+
