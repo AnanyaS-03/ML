@@ -1,12 +1,12 @@
 # 🧪 A/B Testing - Product Display using Streamlit
 
-This project simulates A/B testing of two product page layouts on an e-commerce platform (inspired by Meesho). The goal is to determine which version performs better in terms of user engagement, by tracking actions like **view** and **add to cart**.
+This project simulates A/B testing of two product page layouts on an e-commerce platform. The goal is to determine which version performs better in terms of user engagement, by tracking actions like **view** and **add to cart**.
 
 ---
 
 ## 🎯 Project Objective
 
-In real-world platforms like Meesho, changing the UI/UX of a product listing page can significantly impact conversion rates. This project helps test that using two different display versions of the same product and tracking user behavior.
+In real-world platforms changing the UI/UX of a product listing page can significantly impact conversion rates. This project helps test that using two different display versions of the same product and tracking user behavior.
 
 We simulate:
 
@@ -49,3 +49,4 @@ You can simulate an action: either just viewing or clicking "Add to Cart".
 
 The action gets logged in data.csv.
 
+![Output]("C:\Users\DELL\OneDrive\Documents\OneDrive\Pictures\Screenshots\Screenshot 2025-05-07 225248.png")
